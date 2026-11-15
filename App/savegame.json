@@ -1,0 +1,11 @@
+{
+    "name": "Kurcxa",
+    "plr_type": "Warrior",
+    "health": 350,
+    "max_health": 350,
+    "damage": 23,
+    "healamount": 15,
+    "inventory": [
+        "Sword"
+    ]
+}
